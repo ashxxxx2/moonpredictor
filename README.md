@@ -6,5 +6,4 @@ sum features :33
 -----------------------------------------------------------------------------------
 · Premium Features such as, auto mines, auto crash, auto join rain, and AUTO CASE!!
 -----------------------------------------------------------------------------------
-AND NOW THE BEST FEATURE OF ALL:
 ·ITS 100% FREE!!!!!!
