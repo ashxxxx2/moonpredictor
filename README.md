@@ -2,9 +2,9 @@
 ------------------------------------------
 sum features :33
 ----------------
-· Works on Rblxwild, Bloxflip and even for Rbxgold!
+· Works on Rblxwild, Bloxflip and even on Rbxgold!
 ---------------------------------------------------
-· Premium Features such as, auto mines, auto crash, and auto even join rain
+· Premium Features such as, auto mines, auto crash, and auto join rain
 ---------------------------------------------------------------------------
 · Very high accuracy (>98%) in mines, crash, etc.
 -------------------------------------------------
