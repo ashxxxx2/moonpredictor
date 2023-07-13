@@ -15,7 +15,7 @@ sum features :33
 # lets see how to use it now!
 its really easy!
 
-·Step 0: install python if u dont have it! : https://www.python.org/downloads/
+· Step 0: install python if u dont have it! : https://www.python.org/downloads/
 
 · Step 1: open "install-requirements.bat" to install all files and the latest version!
 
