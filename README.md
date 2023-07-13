@@ -18,3 +18,5 @@ its really easy!
 · Step 1: open "install-requirements.bat" to install all files and the latest version!
 
 · Step 2/Last Step: just open Moon Predictor!
+
+· now just pick the mode!
