@@ -11,3 +11,5 @@ sum features :33
 · ITS 100% FREE!!!!!!
 ---------------------
 ![title1](https://github.com/ashexxxx/moonpredictor/assets/116804881/36b2209d-fe60-4c51-a329-179119b05f0a)
+----------------------------------------------------------------------------------------------------------
+lets see how to use it now!
