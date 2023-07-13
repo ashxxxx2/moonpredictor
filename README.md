@@ -12,4 +12,9 @@ sum features :33
 ---------------------
 ![title1](https://github.com/ashexxxx/moonpredictor/assets/116804881/36b2209d-fe60-4c51-a329-179119b05f0a)
 ----------------------------------------------------------------------------------------------------------
-lets see how to use it now!
+# lets see how to use it now!
+its really easy!
+
+· Step 1: open "install-requirements.bat" to install all files and the latest version!
+
+· Step 2/Last Step:just open Moon Predictor!
