@@ -1,7 +1,7 @@
 # Moonpredictor - The Future of Predictors!
 ------------------------------------------
 # V2 OUT IN DISCORD FOR FREE!!! 99,6% accurate!!
-#  https://discord.gg/3dYqQb7VSx
+#  https://discord.gg/3dYqQb7VSx (currently not able to answr tickets :p )
 ------------------------------------------------
 sum features :33
 ----------------
