@@ -1,11 +1,6 @@
 # Moonpredictor - The Future of Predictors!
 ------------------------------------------
-## ON VACCATION AND CURRENTLY NOT ABLE TO FIX IT! IM SORRY
-
-
-------------------------------------------
-
-# V2 OUT IN DISCORD FOR FREE!!! 99,6% accurate!!
+# V3 OUT IN DISCORD FOR FREE!!! 99,6% accurate!!
 #  https://discord.gg/(currently down)
 ------------------------------------------------
 sum features :33
