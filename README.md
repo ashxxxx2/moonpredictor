@@ -1,8 +1,5 @@
 # Moonpredictor - The Future of Predictors!
 ------------------------------------------
-# V3 OUT IN DISCORD FOR FREE!!! 99,6% accurate!!
-#  https://discord.gg/(currently down)
-------------------------------------------------
 sum features :33
 ----------------
 · Works on Rblxwild, Bloxflip and even on Rbxgold!
@@ -25,5 +22,5 @@ its really easy!
 · now just pick the mode!
 
 ----------------------------------------------------------------------------------------------------------
-# have any other issues? join the discord and make a ticket!
+go to realeases for v3!
 ----------------------------------------------------------------------------------------------------------
